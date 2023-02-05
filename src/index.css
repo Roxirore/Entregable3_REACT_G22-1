@@ -1,0 +1,32 @@
+/* .........RESET......... */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Inconsolata', monospace;
+    background-color: #05292e;
+    color: whitesmoke;
+}
+h1, h2, h3, p, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+img {
+    display: block;
+    width: 100%;
+}
+input {
+    outline: none;
+    border: none;
+    font-family: inherit;
+}
+button {
+    border: none;
+    font-family: inherit;
+}
